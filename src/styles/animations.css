@@ -1,0 +1,55 @@
+/* Bounce Animation 1 */
+@keyframes bounceAnim {
+  0% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(15px);
+  }
+  100% {
+    transform: translateY(0px);
+  }
+}
+
+.bounceAnim {
+  animation: bounceAnim 3s infinite;
+}
+
+
+/* Bounce Animation 2 */
+@keyframes bounceAnim2 {
+  0% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(-15px);
+  }
+  100% {
+    transform: translateY(0px);
+  }
+}
+
+.bounceAnim2 {
+  animation: bounceAnim2 3s infinite;
+}
+
+
+/* Bounce Animation 3 */
+@keyframes bounceAnim3 {
+  0% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(-8px);
+  }
+  100% {
+    transform: translateY(0px);
+  }
+}
+
+.bounceAnim3 {
+  animation: bounceAnim3 3s infinite;
+}
+
+
+
