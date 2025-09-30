@@ -18,7 +18,7 @@ const Contact = () => {
           </p>
           <div className="flex mt-12">
             <img
-              src="../public/images/email.png"
+              src="/images/email.png"
               className="w-[9vw] h-[9vw] sm:w-[55px] sm:h-[55px]"
             />
             <div className="flex flex-col ml-5">
@@ -33,7 +33,7 @@ const Contact = () => {
 
           <div className="flex mt-8">
             <img
-              src="../public/images/location.png"
+              src="/images/location.png"
               className="w-[9vw] h-[9vw] sm:w-[55px] sm:h-[55px]"
             />
             <div className="flex flex-col ml-5">

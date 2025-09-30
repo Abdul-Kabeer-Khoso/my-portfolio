@@ -11,7 +11,7 @@ const ThirdSkillSection = () => {
             data-social="node"
             className="w-[12vw] h-[12vw] sm:w-[70px] sm:h-[70px]"
           >
-            <img src="../public/Web/node.png" />
+            <img src="/Web/node.png" />
           </a>
           <div className="tooltip">Node</div>
         </li>
@@ -21,7 +21,7 @@ const ThirdSkillSection = () => {
             data-social="express"
             className="w-[12vw] h-[12vw] sm:w-[70px] sm:h-[70px]"
           >
-            <img src="../public/Web/express.png" />
+            <img src="/Web/express.png" />
           </a>
           <div className="tooltip">Express</div>
         </li>
@@ -32,7 +32,7 @@ const ThirdSkillSection = () => {
             className="w-[12vw] h-[12vw] sm:w-[70px] sm:h-[70px]"
           >
             <img
-              src="../public/Web/mysql.png"
+              src="/Web/mysql.png"
               width="70%"
               className="rounded-lg"
             />
@@ -45,7 +45,7 @@ const ThirdSkillSection = () => {
             data-social="mongodb"
             className="w-[12vw] h-[12vw] sm:w-[70px] sm:h-[70px]"
           >
-            <img src="../public/Web/mongodb.png" width="70%" />
+            <img src="/Web/mongodb.png" width="70%" />
           </a>
           <div className="tooltip">mongoDB</div>
         </li>

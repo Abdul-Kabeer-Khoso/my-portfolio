@@ -11,7 +11,7 @@ const SecondSkillSection = () => {
             data-social="bootstrap"
             className="w-[12vw] h-[12vw] sm:w-[70px] sm:h-[70px]"
           >
-            <img src="../public/Web/bootstrap.png" />
+            <img src="/Web/bootstrap.png" />
           </a>
           <div className="tooltip">Bootstrap</div>
         </li>
@@ -22,7 +22,7 @@ const SecondSkillSection = () => {
             className="w-[12vw] h-[12vw] sm:w-[70px] sm:h-[70px]"
           >
             <img
-              src="../public/Web/tailwind.png"
+              src="/Web/tailwind.png"
               className="rounded-lg mt-1 w-[70%] sm:w-[70%]"
             />
           </a>

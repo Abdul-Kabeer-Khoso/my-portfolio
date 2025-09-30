@@ -10,7 +10,7 @@ const ProfilesBox = () => {
           target="_blank"
         >
           <img
-            src="../public/images/linkedin logo.png"
+            src="/images/linkedin logo.png"
             className="w-[9vw] sm:w-[39px]"
           />
         </a>

@@ -11,7 +11,7 @@ const FourthSkillSection = () => {
             data-social="c++"
             className="w-[12vw] h-[12vw] sm:w-[70px] sm:h-[70px]"
           >
-            <img src="../public/Web/c++.png" width="80%" />
+            <img src="/Web/c++.png" width="80%" />
           </a>
           <div className="tooltip">C++</div>
         </li>
@@ -21,7 +21,7 @@ const FourthSkillSection = () => {
             data-social="java"
             className="w-[12vw] h-[12vw] sm:w-[70px] sm:h-[70px]"
           >
-            <img src="../public/Web/java.png" className="rounded-lg" />
+            <img src="/Web/java.png" className="rounded-lg" />
           </a>
           <div className="tooltip">Java</div>
         </li>
@@ -31,7 +31,7 @@ const FourthSkillSection = () => {
             data-social="python"
             className="w-[12vw] h-[12vw] sm:w-[70px] sm:h-[70px]"
           >
-            <img src="../public/Web/python.png" width="70%" />
+            <img src="/Web/python.png" width="70%" />
           </a>
           <div className="tooltip">Python</div>
         </li>
@@ -41,7 +41,7 @@ const FourthSkillSection = () => {
             data-social="github"
             className="w-[12vw] h-[12vw] sm:w-[70px] sm:h-[70px]"
           >
-            <img src="../public/Web/github.png" width="70%" />
+            <img src="/Web/github.png" width="70%" />
           </a>
           <div className="tooltip">Github</div>
         </li>

@@ -11,7 +11,7 @@ const Navbar = () => {
           setShowLinks(!showLinks);
         }}
       >
-        <img src="public/menuIcon.png" />
+        <img src="/menuIcon.png" />
       </a>
 
       <div

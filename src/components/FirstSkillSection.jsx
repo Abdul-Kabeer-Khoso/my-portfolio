@@ -11,7 +11,7 @@ const FirstSkillSection = () => {
             data-social="html"
             className="w-[12vw] h-[12vw] sm:w-[70px] sm:h-[70px]"
           >
-            <img src="../public/Web/html.png" />
+            <img src="/Web/html.png" />
           </a>
           <div className="tooltip">HTML</div>
         </li>
@@ -22,7 +22,7 @@ const FirstSkillSection = () => {
             className="w-[12vw] h-[12vw] sm:w-[70px] sm:h-[70px]"
           >
             <img
-              src="../public/Web/css.png"
+              src="/Web/css.png"
               className="rounded-lg mt-1 w-[60%] sm:w-[70%]"
             />
           </a>
@@ -35,7 +35,7 @@ const FirstSkillSection = () => {
             className="w-[12vw] h-[12vw] sm:w-[70px] sm:h-[70px]"
           >
             <img
-              src="../public/Web/javascript.png"
+              src="/Web/javascript.png"
               className="rounded-lg mt-1 sm:mt-2 w-[70%] sm:w-[70%]"
             />
           </a>
@@ -47,7 +47,7 @@ const FirstSkillSection = () => {
             data-social="react"
             className="w-[12vw] h-[12vw] sm:w-[70px] sm:h-[70px]"
           >
-            <img src="../public/Web/react.png" width="70%" />
+            <img src="/Web/react.png" width="70%" />
           </a>
           <div className="tooltip">React</div>
         </li>
