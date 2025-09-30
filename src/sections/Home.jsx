@@ -14,7 +14,7 @@ const Home = () => {
       className="w-full h-[210vw] sm:h-[920px] md:h-[100vh] relative"
     >
       <LottieAnimation
-        fileLink="../public/lottieAnimation/snowoff.lottie"
+        fileLink="/lottieAnimation/snowoff.lottie"
         className="opacity-20 w-full h-auto fixed inset z-0"
       />
 
